@@ -1,11 +1,11 @@
 {
   "manifest_version": 2,
   "name": "Google Meet PATTATT",
-  "version": "1.1",
+  "version": "1.2",
 
   "browser_specific_settings": {
     "gecko": {
-      "id": "pattatt@vedu"
+      "id": "pattatt@vedanth-p"
     }
   },
 
